@@ -1,0 +1,9 @@
+=微贷帮ionic开发相关信息=
+
+==版本信息==
+node     v8.2.1
+ionic    v3.6.0
+cordova  v7.0.0
+
+==创建工程==
+ionic start WDBProject tabs
